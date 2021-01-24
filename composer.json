@@ -1,0 +1,17 @@
+{
+    "name": "bernadskiy/cli-task",
+    "description": "Test assignment for Lenvendo",
+    "authors": [
+        {
+            "name": "leonid",
+            "email": "lbernadskiy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CliLib\\": "src/cli_lib/",
+            "AppData\\": "src/app_data/"
+        }
+    },
+    "require": {}
+}
